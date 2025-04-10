@@ -11,7 +11,7 @@ A Python script that automatically converts all `.pptx`, `.docx`, and `.xlsx` fi
 - **Windows**
 - **Microsoft PowerPoint, Word, Excel** (installed)
 - **Python 3.x**
-- **Libraries: `comtypes`, `python-docx`, `openpyxl`**
+- **Libraries: `comtypes`, `python-docx`, `openpyxl`, `pywin32`**
 
 ## 🔧 Installation
 
@@ -24,7 +24,7 @@ git clone https://github.com/Viteckpl/Office2pdf.git
 2. Install the required libraries:
 
 ```bash
-pip install comtypes python-docx openpyxl
+pip install comtypes python-docx openpyxl pywin32
 ```
 
 3. Run the script
@@ -45,7 +45,7 @@ Skrypt w Pythonie, który automatycznie konwertuje wszystkie pliki `.pptx`, `.do
 - **Windows**
 - **Microsoft PowerPoint, Word, Excel (zainstalowane)**
 - **Python 3.x**
-- **Biblioteka: `comtypes`, `python-docx`, `openpyxl`**
+- **Biblioteka: `comtypes`, `python-docx`, `openpyxl`, `pywin32`**
 
 ## 🔧 Instalacja
 1. Sklonuj repozytorium:
@@ -57,7 +57,7 @@ git clone https://github.com/Viteckpl/Office2pdf.git
 2. Zainstaluj wymagane biblioteki:
 
 ```bash
-pip install comtypes python-docx openpyxl
+pip install comtypes python-docx openpyxl pywin32
 ```
 
 3. Uruchom skrypt:
