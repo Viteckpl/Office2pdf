@@ -11,7 +11,7 @@ A Python script that automatically converts all `.pptx`, `.docx`, and `.xlsx` fi
 - **Windows**
 - **Microsoft PowerPoint, Word, Excel** (installed)
 - **Python 3.x**
-- Libraries: **`comtypes`, `python-docx`, `openpyxl`**
+- **Libraries: **`comtypes`, `python-docx`, `openpyxl`**
 
 ## 🔧 Installation
 
