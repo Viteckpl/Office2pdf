@@ -51,7 +51,7 @@ Skrypt w Pythonie, który automatycznie konwertuje wszystkie pliki `.pptx`, `.do
 1. Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/TwojeRepozytorium/file-converter-to-pdf.git
+git clone https://github.com/Viteckpl/Office2pdf.git
 ```
 
 2. Zainstaluj wymagane biblioteki:
